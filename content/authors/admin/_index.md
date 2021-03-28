@@ -31,7 +31,7 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/lgiselebockn
+  link: https://twitter.com/lgiselebock
 - icon: github
   icon_pack: fab
   link: https://github.com/lgiselebock

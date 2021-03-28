@@ -53,10 +53,10 @@ markup:
     renderer:
       unsafe: true
   highlight:
-    codeFences: false
+    codeFences: true
   tableOfContents:
-    startLevel: 2
-    endLevel: 3
+    startLevel: 1
+    endLevel: 10
 imaging:
   resampleFilter: lanczos
   quality: 75
