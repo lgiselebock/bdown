@@ -1,22 +1,8 @@
 ---
 bio: Conteúdo em construção...
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+
 email: "luisagisele@gmail.com"
 highlight_name: false
-
-interests:
-- Análise de dados
-- Macroeconomia
 
 organizations:
 - name: Universidade Federal de Santa Maria
