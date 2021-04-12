@@ -1,13 +1,10 @@
 ---
-bio: Conteúdo em construção...
+# bio: Conteúdo em construção...
 
 email: "luisagisele@gmail.com"
 highlight_name: false
 
-organizations:
-- name: Universidade Federal de Santa Maria
-  url: https://www.ufsm.br/
-role: Estudante de Ciências Econômicas
+role: ...
 social:
 - icon: envelope
   icon_pack: fas
@@ -28,8 +25,13 @@ superuser: true
 title: Luísa Gisele Böck
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Atualmente, eu sou estudante de Ciências Econômicas na [Universidade Federal de Santa Maria - UFSM](https://www.ufsm.br). 
 
-Página em construção ...
+Assim como eu, esta página ainda encontra-se em construção ... 
 
+👷‍♀️
+
+
+<!-- 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+-->
