@@ -1,0 +1,12 @@
+# Font style metadata
+name = "Minimal"
+
+# Optional Google font URL
+google_fonts = "family=PT+Sans+Narrow"
+
+# Font families
+heading_font = "PT Sans Narrow"
+body_font = "PT Sans Narrow"
+nav_font = "PT Sans Narrow"
+mono_font = "PT Sans Narrow"
+
