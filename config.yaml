@@ -6,7 +6,7 @@ theme: "starter-academic"
 
 title: Luísa Gisele Böck # Website name
 baseurl: 'https://lgiselebock.netlify.app/' # Website URL
-copyright: '2021 Luísa Gisele Böck' # Footer text, e.g. '© {year} Me'
+copyright: '{year} Luísa Gisele Böck' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
@@ -15,7 +15,7 @@ copyright: '2021 Luísa Gisele Böck' # Footer text, e.g. '© {year} Me'
 defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
-removePathAccents: true
+removePathAccents: true # removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
 
 ############################
 ## MODULES
@@ -51,15 +51,15 @@ markup:
   defaultMarkdownHandler: goldmark
   goldmark:
     renderer:
-      unsafe: true
+      unsafe: true # Enable user to embed HTML snippets in Markdown content.
   highlight:
-    codeFences: true
+    codeFences: true # Disable Hugo's code highlighter as it conflicts with Academic's highligher.
   tableOfContents:
     startLevel: 1
-    endLevel: 10
+    endLevel: 5
 imaging:
   resampleFilter: lanczos
-  quality: 75
+  quality: 90
   anchor: smart
 timeout: 600000
 taxonomies:
