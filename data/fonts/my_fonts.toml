@@ -2,11 +2,11 @@
 name = "Minimal"
 
 # Optional Google font URL
-google_fonts = "family=PT+Sans+Narrow"
+google_fonts = "Antonio|Lato|Source+Sans+Pro|Blinker:wght@300"
 
 # Font families
-heading_font = "PT Sans Narrow"
-body_font = "PT Sans Narrow"
-nav_font = "PT Sans Narrow"
-mono_font = "PT Sans Narrow"
+heading_font = "Blinker"
+body_font = "Lato"
+nav_font = "Blinker"
+mono_font = "Blinker"
 
