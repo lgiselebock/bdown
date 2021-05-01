@@ -30,6 +30,8 @@ module:
 ## ADVANCED
 ############################
 
+#params.customCSS:
+  #href: "static/css/custom.css"
 enableGitInfo: false
 summaryLength: 30
 paginate: 10
